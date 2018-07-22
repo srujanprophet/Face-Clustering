@@ -1,0 +1,1 @@
+/Users/sruji/anaconda3/envs/PALM/lib/python3.5/copyreg.py
